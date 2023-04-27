@@ -2,16 +2,16 @@
 ### Obtain an API Key
 To use the YouTube Data API v3, you will need to obtain an API key from the Google Developers Console. To do so, follow these steps:
 
-Go to the Google Developers Console.
-Create a new project by clicking on the dropdown menu at the top of the page and selecting "New Project."
-Enter a name for your project and click "Create."
-Once your project is created, select it from the dropdown menu at the top of the page.
-In the left-hand navigation menu, click on "APIs & Services" > "Library."
-Search for "YouTube Data API v3" and select it.
-Click "Enable" to enable the API for your project.
-In the left-hand navigation menu, click on "APIs & Services" > "Credentials."
-Click "Create Credentials" > "API Key."
-Copy your API key to use in the sentiment_analysis.py script.
+1. Go to the Google Developers Console.
+2. Create a new project by clicking on the dropdown menu at the top of the page and selecting "New Project."
+3. Enter a name for your project and click "Create."
+4. Once your project is created, select it from the dropdown menu at the top of the page.
+5. In the left-hand navigation menu, click on "APIs & Services" > "Library."
+6. Search for "YouTube Data API v3" and select it.
+7. Click "Enable" to enable the API for your project.
+8. In the left-hand navigation menu, click on "APIs & Services" > "Credentials."
+9. Click "Create Credentials" > "API Key."
+10. Copy your API key to use in the sentiment_analysis_youtube_api.py script.
 
 ### Dependencies
 To run the sentiment_analysis.py script, you will need to install the following dependencies:
